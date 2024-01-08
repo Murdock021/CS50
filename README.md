@@ -3,7 +3,7 @@
 Este diretório contém uma coleção de exemplos de código que foram aprendidos durante o curso, junto com exemplos dados em aula para diferentes linguagens de programação.
 
 ## Estrutura do Diretório
-- **/HTML CSS e SASS**: Exemplos de códigos de marcação.
+- **/HTML CSS e SASS**: Exemplos de códigos de marcação (HTML,CSS,SASS e Bootstrap).
 - **/Python**: Exemplos de código em Python.
 - **/JavaScript**: Exemplos de código em JavaScript.
 - **/CSharp**: Exemplos de código em C#.
