@@ -1,0 +1,25 @@
+git clone - permite copiar (clonar) um repositorio expecifico de uma Brach 
+git branch <nome-da-branch> - cria uma branch (ramificação)
+git add <arquivo> - Para adicionar um único arquivo
+git add -A - Para adicionar tudo ao mesmo tempo
+git commit -m "mensagem do commit" - git commit salva suas alterações no espaço de trabalho local.
+git push <repositório-remoto> <nome-da-branch> - Git push faz o upload dos seus commits no repositório remoto.
+ou
+git push -u origin <nome-da-branch>
+git revert -  desfazer nossos commits 
+ git log -- oneline - ver nosso histórico de commits
+ls - lista os aquivos e pastas da unidade atual 
+cd <diretorio> - muda o diretorio para aquele especificado
+code . - Abre o editor de codigos 
+mkdir <pasta> - cria uma nova pasta com o nome dado.
+rm -r <pasta> - remove uma pasta e todos seus arquivos
+touch <arquivo>.<extensao> - criar um novo arquivo vaz
+cat > <arquivo>.<extensao>> - escreve no arquivo, so
+vi ou nano <arquivo> - abre o editor de textos para editar o
+-w >> <arquivo> - adiciona as linhas ao final do arquivo
+-i <<< "Texto" - insere o que esta entre aspas duplas
+-a >> /etc/motd - acrescenta na tela inicial do sistema
+clear - limpa a tela do terminal
+man <comando> - mostra a documentacao do comando
+apropos <palavra> - procura por algum comando relacionado a pal
+passwd - altera a senha do usuario logado
