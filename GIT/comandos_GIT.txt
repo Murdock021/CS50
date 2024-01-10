@@ -7,7 +7,7 @@ git push <repositório-remoto> <nome-da-branch> - Git push faz o upload dos seus
 ou
 git push -u origin <nome-da-branch>
 git revert -  desfazer nossos commits 
- git log -- oneline - ver nosso histórico de commits
+git log -- oneline - ver nosso histórico de commits
 ls - lista os aquivos e pastas da unidade atual 
 cd <diretorio> - muda o diretorio para aquele especificado
 code . - Abre o editor de codigos 
